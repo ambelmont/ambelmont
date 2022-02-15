@@ -1,4 +1,4 @@
-- 👋 Olá, eu me chamo Amanda  Mirelly Carvalho Belmont, sou Desenvolvedora Web Full Stack.
+- 👋 Olá, Amanda, sou Desenvolvedora Web Full Stack.
 -    Estou  me atualizando diariamente no mundo da programação através da Digital House, além de ter minha formação em 
 Gestão da Tecnologia da Informação.
 -   
