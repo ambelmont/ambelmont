@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Amanda, sou Desenvolvedora Web Full Stack.
-- Estou  em constatnte atualização no mundo da programação através da Digital House, além de ter minha formação em 
+- Estou  em constante atualização no mundo da programação através da Digital House, além de ter minha formação em 
 Gestão da Tecnologia da Informação e Ciências Contábeis que também contribuiu para o meu crescimento profissional.
 - 🚀💻 Tecnologias
 
