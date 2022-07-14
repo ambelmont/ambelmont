@@ -1,7 +1,8 @@
 - 👋 Olá, me chamo Amanda, sou Desenvolvedora Web Full Stack.
-- Estou  em constante atualização no mundo da programação através da Digital House, além de ter minha formação em 
+- 🚀 Estou  em constante atualização no mundo da programação através da Digital House, além de ter minha formação em 
 Gestão da Tecnologia da Informação e Ciências Contábeis que também contribuiu para o meu crescimento profissional.
-- 🚀💻 Tecnologias
+
+ 💻 Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -20,3 +21,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/amanda-mirelly-carvalho-belmont-a75482168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+
+<div>
+<a href="https://github.com/ambelmont">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambelmont-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ambelmont-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
