@@ -1,5 +1,5 @@
-- 👋 Olá, me chamo Amanda, sou Desenvolvedora Web Full Stack.
-- 🚀 Estou  em constante atualização no mundo da programação através da Digital House, além de ter minha formação em 
+- 👋 Olá, me chamo Amanda, sou Salesforce Administrator | 2 x Certified Salesforce | Ranger e Desenvolvedora Web Full Stack.
+- 🚀 Estou  em constante atualização no mundo da programação, além de ter minha formação em 
 Gestão da Tecnologia da Informação e Ciências Contábeis que também contribuiu para o meu crescimento profissional.
 
  💻 Tecnologias
